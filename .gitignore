@@ -1,0 +1,14 @@
+# venvs & caches
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# outputs (keep if you want the built HTML in the repo)
+# outputs/
